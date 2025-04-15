@@ -1,6 +1,6 @@
 package server
 
-import "github.com/cavalheirodev/finance-app-bff/pkg/web/error"
+import "github.com/cavalheirodev/finance-app-bff/pkg/error"
 
 type Route struct {
 	Method      string

@@ -3,7 +3,7 @@ package server
 import (
 	"log"
 
-	"github.com/cavalheirodev/finance-app-bff/pkg/web/config"
+	"github.com/cavalheirodev/finance-app-bff/pkg/config"
 )
 
 var (

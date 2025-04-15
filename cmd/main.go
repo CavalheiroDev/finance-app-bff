@@ -1,12 +1,11 @@
 package main
 
 import (
-	"os/user"
-
-	"github.com/cavalheirodev/finance-app-bff/cmd/db"
-	"github.com/cavalheirodev/finance-app-bff/pkg/web/config"
-	"github.com/cavalheirodev/finance-app-bff/pkg/web/server"
-	"github.com/cavalheirodev/finance-app-bff/pkg/web/validator"
+	"github.com/cavalheirodev/finance-app-bff/internal/entity/user"
+	"github.com/cavalheirodev/finance-app-bff/pkg/config"
+	"github.com/cavalheirodev/finance-app-bff/pkg/db"
+	"github.com/cavalheirodev/finance-app-bff/pkg/server"
+	"github.com/cavalheirodev/finance-app-bff/pkg/validator"
 )
 
 func main() {

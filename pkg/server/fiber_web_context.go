@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/cavalheirodev/finance-app-bff/pkg/web/validator"
+	"github.com/cavalheirodev/finance-app-bff/pkg/validator"
 	"github.com/gofiber/fiber/v2"
 )
 

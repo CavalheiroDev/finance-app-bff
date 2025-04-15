@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cavalheirodev/finance-app-bff/pkg/web/config"
+	"github.com/cavalheirodev/finance-app-bff/pkg/config"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/log"
 )
